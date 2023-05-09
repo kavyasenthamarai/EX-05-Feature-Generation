@@ -225,6 +225,7 @@ DATA CSV
 ![image](https://user-images.githubusercontent.com/118668727/237004319-19782093-9dd9-44b7-9482-370344fa40af.png)
 # Data Scaling using RobustScaler:
 ![image](https://user-images.githubusercontent.com/118668727/237004382-e32c434a-ba89-4c05-ab1b-c23c883bfbbc.png)
+
 RESULT:
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
